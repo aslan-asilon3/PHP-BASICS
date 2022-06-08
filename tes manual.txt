@@ -1,6 +1,0 @@
-
-Coding Interview Algoritma + Struktur data tuk Aslan : 
-array integer[2,3,4,5,1,7,6]
-target 8
-hitung angka yg jika dijumlahkan hasilnya angka target
-menggunakan looping for, while, do-while
